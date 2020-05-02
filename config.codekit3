@@ -19,6 +19,14 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/deploy/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/deploy/header.html",
+		"oF": 0
+		},
 	"/deploy/index.html": {
 		"cB": 1,
 		"ft": 8192,
