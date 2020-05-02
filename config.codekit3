@@ -27,6 +27,83 @@
 		"oAP": "/deploy/header.html",
 		"oF": 0
 		},
+	"/deploy/img/header/sun.jpg": {
+		"ft": 16384,
+		"iS": 63406,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/header/sun.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-1/boats.jpg": {
+		"ft": 16384,
+		"iS": 271601,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-1/boats.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-2/tinik.jpg": {
+		"ft": 16384,
+		"iS": 153971,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/tinik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/boy.jpg": {
+		"ft": 16384,
+		"iS": 160817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/boy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/drone.jpg": {
+		"ft": 16384,
+		"iS": 151879,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/drone.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/jeep.jpg": {
+		"ft": 16384,
+		"iS": 130716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/jeep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-4/kids.jpg": {
+		"ft": 16384,
+		"iS": 91716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/kids.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/deploy/index.html": {
 		"cB": 1,
 		"ft": 8192,
@@ -45,14 +122,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/dev/header.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/dev/header.html",
-		"oF": 0
 		},
 	"/dev/index.kit": {
 		"cB": 1,
