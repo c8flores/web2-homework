@@ -19,14 +19,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/deploy/header.html",
-		"oF": 0
-		},
 	"/deploy/img/header/sun.jpg": {
 		"ft": 16384,
 		"iS": 63406,
