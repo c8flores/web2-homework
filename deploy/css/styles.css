@@ -380,6 +380,16 @@ textarea {
 /* =============
     Header
 ============= */
+#header {
+  display: grid;
+  background-image: url("../img/header/sun.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 684px; }
+  @media (min-width: 768px) {
+    #header {
+      height: 670px; } }
 /* =============
     Footer
 ============= */
@@ -393,6 +403,10 @@ footer {
 /* =============
     Section 1
 ============= */
+#section-1 {
+  display: grid;
+  grid-template-columns: 10x auto 10px; }
+
 /* =============
     Section 2
 ============= */

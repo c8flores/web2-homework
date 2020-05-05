@@ -2,8 +2,6 @@
     Section 1
 ============= */
 #section-1{
-    .grid-content{
-        
-    }
-
+    display: grid;
+    grid-template-columns: 10x auto 10px;
 }
