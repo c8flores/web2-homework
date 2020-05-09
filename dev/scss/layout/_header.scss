@@ -1,16 +1,3 @@
 /* =============
     Header
 ============= */
-#header {
-    display: grid;    
-    background-image: url('../img/header/sun.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 684px;
-
-    @include md {
-        height: 670px;
-    }
-}
-  

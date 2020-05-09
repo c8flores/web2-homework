@@ -1,7 +1,19 @@
 /* =============
     Section 1
 ============= */
+
 #section-1{
-    display: grid;
-    grid-template-columns: 10x auto 10px;
+    height: 370px;
+    background-image: url('../img/section-1/sun.jpg');
+    background-position: center;
+    background-size: cover;
+    color: $white;
+
+    @include md {
+        height: 510px;
+    }
+
+    @include xl{
+        height: 684px;
+    }
 }

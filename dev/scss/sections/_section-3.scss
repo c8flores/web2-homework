@@ -1,9 +1,21 @@
 /* =============
     Section 3
 ============= */
+
 #section-3{
-    .grid-content{
-        
+    height: 516px;
+    background-image: url('../img/section-3/tinik.jpg');
+    background-size: cover;
+
+    @include md{
+        height: 512px;
+    }
+    
+    @include lg{
+        height: 522px;
     }
 
+    @include xl{
+        height: 687px;
+    }
 }
