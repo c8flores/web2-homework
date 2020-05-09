@@ -21,7 +21,7 @@
             grid-template-areas: 
             "boy boy"
             "boy boy"
-            "drone";
+            "drone jeep";
         }
 
         @include xl{
@@ -37,19 +37,19 @@
             background-image: url("../img/section-5/boy.jpg");
             @include md{
                 grid-area: boy;
-                background-position: center top;
+                background-position: center;
             }
         }
 
         #drone{
-            background-image: url("..img/section-5/drone.jpg");
+            background-image: url("../img/section-5/drone.jpg");
             @include md{
                 grid-area: drone;
             }
         }
         
         #jeep{
-            background-image: url("..img/section-5/jeep.jpg");
+            background-image: url("../img/section-5/jeep.jpg");
             @include md{
                 grid-area: jeep;
             }
