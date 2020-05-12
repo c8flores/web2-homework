@@ -16,7 +16,7 @@
         @include xl{
             display: grid;
             grid-template-columns: 35% auto;
-            grid-area: section-6-div;
+            grid-area: div;
         }
 
         aside{
@@ -37,7 +37,7 @@
                 grid-template-columns: auto 70% auto;
             }
             >div{
-                grid-area: section-6;
+                grid-area: aside;
             }
         }
     }
